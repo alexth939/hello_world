@@ -1,19 +1,16 @@
 # hello_world
 my first repository on github
 
-#Слитно
-# Раздельно
+# tasks:
+1. keep learning from the guide
 
-hashtag experiment
-'#' asd
-"#" dsa
+# questions:
+1. какая разница между "create repository" и "create project" - я так понимаю, оба являются пространством для хранения файлов..
+2. why readme is an md format?
 
-# another one
-asd
-dsa
-dadada#dsa
-gagaga # gttg aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-ddddddddddddddddddddddddddddddddddddd
+# answered:
+1. how to write bold title? - to set "# something" &! "#something"
 
-need to tap double \n to make new line
-
+# learned
+1. to modify the readme and to commit changes
+2. to view file change-history
