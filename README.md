@@ -7,4 +7,5 @@ https://docs.github.com/en/get-started/quickstart/hello-world#making-and-committ
 
 - [ ] asd
 - [x] dsa
-- [ ] ✔️
+- [✔️]
+- [ ] 🔢
