@@ -5,5 +5,5 @@ my first repository on github
 1. keep learning from the guide
 https://docs.github.com/en/get-started/quickstart/hello-world#making-and-committing-changes
 
-- [] asd
+- [ ] asd
 - [X] dsa
