@@ -7,5 +7,10 @@ https://docs.github.com/en/get-started/quickstart/hello-world#making-and-committ
 
 - [ ] asd
 - [x] dsa
-- [✔️]
+- [x] ✔️
 - [ ] 🔢
+
+| demo                                              | demo |
+| ------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> works  |      |
+| <input type="checkbox" disabled /> works here too |      |
