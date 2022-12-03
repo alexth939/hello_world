@@ -6,4 +6,4 @@ my first repository on github
 https://docs.github.com/en/get-started/quickstart/hello-world#making-and-committing-changes
 
 - [ ] asd
-- [X] dsa
+- [x] dsa
