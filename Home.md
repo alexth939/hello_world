@@ -23,7 +23,7 @@
 
 ## [Runtime.Services.ForScene](Runtime.Services.ForScene)
 
-- [`Clock`](Runtime.Services.ForScene#clock)
+- [`Clock`](Runtime.Services.ForScene.md#clock)
 - [`ClockTime`](Runtime.Services.ForScene#clocktime)
 - [`ClockView`](Runtime.Services.ForScene#clockview)
 - [`IClockView`](Runtime.Services.ForScene#iclockview)
