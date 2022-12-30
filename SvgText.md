@@ -1,6 +1,6 @@
 # Test1:
 
-![Image Caption](template.svg)
+![](template.svg)
 
 # Test2:
 
